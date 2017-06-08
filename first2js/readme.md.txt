@@ -1,0 +1,1 @@
+you need notice that when to put the script tag in the head of the html and when to put it in the body of the html.
